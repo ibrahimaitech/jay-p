@@ -59,14 +59,14 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id, { text: '' + b64data });
 	
 				   let SIGMA_MD_TEXT = `
-*𝗕𝗔𝗥𝗔𝗞𝗔 𝗠𝗗 𝗖𝗢𝗡𝗡𝗘𝗖𝗧𝗘𝗗*
-*𝗕𝗔𝗥𝗔𝗞𝗔_𝗧𝗘𝗖𝗛*
+*JAY-MD BOT 𝗖𝗢𝗡𝗡𝗘𝗖𝗧𝗘𝗗*
+*JAY MD*
 *𝗟𝗘𝗚𝗜𝗧_𝗕𝗢𝗧*
 ____________________________________
 ╔════◇
 ║『 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥𝗦』
 
-║ ❒Baraka bega  : _https://wa.me/255762190568_
+║ ❒ *Jay Tech  : _https://wa.me/254786827982_
 
 ║ ❒ *Ibrahim Adams*: _https://wa.me/message/74F2PC4JA4F3P1_
 
@@ -77,12 +77,13 @@ ____________________________________
 
 ║ ❒ 𝗢𝘄𝗻𝗲𝗿: _https://wa.me/255762190568_
 
-║ ❒ 𝗪𝗮𝗰𝗵𝗮𝗻𝗻𝗲𝗹: _https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y_
+║ ❒ Wagraup: _https://chat.whatsapp.com/I4YnNl6k0Qh35b6GxSLcfj_
 
 ║ 
 ╚════════════════════╝ 
- *𝗕𝗔𝗥𝗔𝗞𝗔_𝗠𝗗*
+ *JAY MD*
 ___________________________________
+
 
 Don't Forget To Give Star🌟 To My Repo`
 					
